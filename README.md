@@ -1,14 +1,14 @@
-# Brainfog Decision Tree
+# Cognitive Decision Tree
 
 An animated decision-tree prototype for exploring practical first-line interventions for brainfog.
 
 Live demo:
 
-- `https://eybmits.github.io/brainfog-decision-tree/`
+- `https://eybmits.github.io/cognitive-decision-tree/`
 
 Repository:
 
-- `https://github.com/eybmits/brainfog-decision-tree`
+- `https://github.com/eybmits/cognitive-decision-tree`
 
 ## What This Is
 
@@ -70,7 +70,7 @@ The app runs locally at `http://127.0.0.1:5173/`.
 npm run build
 ```
 
-The Vite build is configured for GitHub Pages under the repo path `/brainfog-decision-tree/`.
+The Vite build is configured for GitHub Pages under the repo path `/cognitive-decision-tree/`.
 
 ## Deployment
 
@@ -78,7 +78,7 @@ Deployment is handled through GitHub Pages via GitHub Actions.
 
 - every push to `main` builds the site and publishes `dist/`
 - the public URL is:
-  `https://eybmits.github.io/brainfog-decision-tree/`
+  `https://eybmits.github.io/cognitive-decision-tree/`
 - in the GitHub repository settings, Pages should use `GitHub Actions` as the source
 
 To verify the production build locally:
