@@ -178,8 +178,8 @@ export function App() {
         >
           <div className="hero-layout">
             <div className="hero-copy-column">
-              <span className="hero-kicker">Brainfog Decision Tree</span>
-              <h1>A more cinematic way to find the first brainfog lever.</h1>
+              <span className="hero-kicker">Cognitive Decision Tree</span>
+              <h1>A more cinematic way to find the first cognitive-state lever.</h1>
               <p className="hero-copy">
                 This prototype turns a symptom checklist into a guided visual route.
                 Every strong yes extends the branch. The first no becomes the next

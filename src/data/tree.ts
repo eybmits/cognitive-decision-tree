@@ -28,7 +28,7 @@ export const decisionTree: DecisionNode[] = [
     successNextId: 'omega3',
     positionVariant: { x: 70, y: 16 },
     intervention: {
-      whyItMatters: 'Short, inconsistent, or fragmented sleep is one of the most common drivers of brainfog.',
+      whyItMatters: 'Short, inconsistent, or fragmented sleep is one of the most common drivers of cognitive drag.',
       nextStep: 'Test one week of fixed sleep and wake times, a darker room, no late caffeine, and early morning light exposure.',
       improvementSignal: 'The head feels less heavy in the morning, activation is faster, and attention is clearer before noon.',
     },
@@ -54,7 +54,7 @@ export const decisionTree: DecisionNode[] = [
     successNextId: 'movement',
     positionVariant: { x: 47, y: 46 },
     intervention: {
-      whyItMatters: 'Even mild dehydration can feel like brainfog, mental drag, or pressure in the head.',
+      whyItMatters: 'Even mild dehydration can feel like mental drag, reduced alertness, or pressure in the head.',
       nextStep: 'Start with a simple routine: water early, visible access during the day, and electrolytes on longer or hotter days.',
       improvementSignal: 'Less head pressure, steadier alertness, and fewer afternoon drop-offs.',
     },
@@ -93,7 +93,7 @@ export const decisionTree: DecisionNode[] = [
     successNextId: null,
     positionVariant: { x: 20, y: 89 },
     intervention: {
-      whyItMatters: 'Low stores or functional deficiencies can show up directly as brainfog, fatigue, and poor resilience.',
+      whyItMatters: 'Low stores or functional deficiencies can show up directly as fatigue, cognitive drag, and poor resilience.',
       nextStep: 'If this area is still open, the next sensible move is clarification rather than guessing.',
       improvementSignal: 'Baseline energy rises, resilience improves, and the mental haze feels less diffuse.',
     },

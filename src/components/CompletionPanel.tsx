@@ -34,7 +34,7 @@ export function CompletionPanel({ visible, onRestart }: CompletionPanelProps) {
           <div className="side-card-block">
             <span>What this MVP proves</span>
             <p>
-              A brainfog check can feel like a cinematic, visible decision system
+              A cognitive-state check can feel like a cinematic, visible decision system
               instead of a static questionnaire or a wall of text.
             </p>
           </div>

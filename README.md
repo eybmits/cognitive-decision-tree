@@ -1,6 +1,6 @@
 # Cognitive Decision Tree
 
-An animated decision-tree prototype for exploring practical first-line interventions for brainfog.
+An animated decision-tree prototype for exploring practical first-line interventions for cognitive-state bottlenecks.
 
 Live demo:
 
@@ -86,4 +86,4 @@ To verify the production build locally:
 1. run `npm run build`
 2. run `npm run preview`
 
-See [docs/PROJECT_NOTES.md](/Users/superposition/Coding/brainfog/docs/PROJECT_NOTES.md) for implementation notes and extension ideas.
+See [docs/PROJECT_NOTES.md](docs/PROJECT_NOTES.md) for implementation notes and extension ideas.
